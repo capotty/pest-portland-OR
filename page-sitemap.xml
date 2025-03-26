@@ -33,31 +33,27 @@
 	</url>
 	<url>
 		<loc>/gresham/</loc>
-		<lastmod>2025-03-25T02:58:54+00:00</lastmod>
+		<lastmod>2025-03-26T18:14:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/beaverton/</loc>
-		<lastmod>2025-03-25T02:58:54+00:00</lastmod>
+		<lastmod>2025-03-26T18:14:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lake-oswego/</loc>
-		<lastmod>2025-03-25T02:58:54+00:00</lastmod>
+		<lastmod>2025-03-26T18:14:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/milwaukie/</loc>
-		<lastmod>2025-03-25T02:58:54+00:00</lastmod>
+		<lastmod>2025-03-26T18:14:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/vancouver/</loc>
-		<lastmod>2025-03-25T02:58:54+00:00</lastmod>
+		<lastmod>2025-03-26T18:14:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ant-control/</loc>
 		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/commercial/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/termite-treatment/</loc>
@@ -113,6 +109,10 @@
 	</url>
 	<url>
 		<loc>/residential/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/commercial/</loc>
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
